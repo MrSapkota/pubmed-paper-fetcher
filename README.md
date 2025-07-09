@@ -123,7 +123,7 @@ A video walkthrough is included with this submission. It demonstrates:
 - How the CLI is used
 - Output verification with example results
 
-[🔗 Video Link](https://drive.google.com/your-demo-video-link)
+[🔗 Video Link](https://drive.google.com/file/d/1iZWHCt-anc2Mx8Ytl4Lb1K9SNwFmT6_p/view?usp=sharing)
 
 
 ## 👨‍💻 Author
